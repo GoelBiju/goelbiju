@@ -1,9 +1,5 @@
 ### Hello! 👋
 
-<p align="center">
-  <img style="border-radius: 50%;" width="100" height="100" src="image.jpg" />
-</p>
-
 I am an undergraduate Computer Science student and software engineer, currently studying at the University of Plymouth.
 
 This is where I put most of my coding related work and anything interesting I decide to build.
