@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <kbd>
-  <img style="border-radius: 50%;" width="100" height="100" src="image.jpg">
+  <img style="border-radius: 50%;" width="100" height="100" src="image.jpg" />
 </kbd>
 
 I am an undergraduate Computer Science student and software engineer, currently studying at the University of Plymouth.
