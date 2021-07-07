@@ -6,9 +6,11 @@ This is where I put most of my coding related work and anything interesting I de
 
 ### What am I doing right now?
 
-- 🔭 I’m currently working on [Visualising Optimisation Data](https://github.com/GoelBiju/Visualising-Optimisation-Data)
+- 👯 I’m currently collaborating on [DataGateway](https://github.com/ral-facilities/datagateway)
 
-- 👯 I’m looking to collaborate on [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile)
+- 🔭 I’m currently developing [Visualising Optimisation Data](https://github.com/GoelBiju/Visualising-Optimisation-Data)
+
+- 🌱 I’m looking to learning through work on [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile)
 
 <!--
 **GoelBiju/goelbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
