@@ -10,7 +10,7 @@ This is where I put most of my coding related work and anything interesting I de
 
 - 🔭 I’m currently developing [Visualising Optimisation Data](https://github.com/GoelBiju/Visualising-Optimisation-Data)
 
-- 🌱 I’m looking to learn mobile development to work on [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile)
+- 🌱 I’m looking to learn mobile development for work on [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile)
 
 <!--
 **GoelBiju/goelbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
