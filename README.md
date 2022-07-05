@@ -1,16 +1,17 @@
 ### Hello! 👋
 
-I am an undergraduate Computer Science student and software engineer, currently studying at the University of Plymouth.
+I'm Goel! A postgraduate Artificial Intelligence student with a background in Computer Science, at the University of Plymouth, and software engineering at several companies/organisations.
 
-This is where I put most of my coding related work and anything interesting I decide to build.
+GitHub is where I place coding related projects and items which pique my interest.
 
-### What am I doing right now?
+### What am I doing or have done recently?
 
-- 👯 I’m currently collaborating on [DataGateway](https://github.com/ral-facilities/datagateway)
+- 🔭 Developing and polishing up the [Visualising Optimisation Data](https://github.com/GoelBiju/Visualising-Optimisation-Data) project,
 
-- 🔭 I’m currently developing [Visualising Optimisation Data](https://github.com/GoelBiju/Visualising-Optimisation-Data)
+- 🌱 Learn mobile development for work on the [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile),
 
-- 🌱 I’m looking to learn mobile development for work on [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile)
+- 👯 Collaborated on the [DataGateway](https://github.com/ral-facilities/datagateway) and [SciGateway](https://github.com/ral-facilities/scigateway) projects as part of my work during my placement and summer intership as a software engineer at [STFC](https://www.ukri.org/councils/stfc/).
+
 
 <!--
 **GoelBiju/goelbiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
