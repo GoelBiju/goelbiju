@@ -10,7 +10,7 @@ GitHub is where I place coding related projects and items which pique my interes
 
 - 🌱 Learn mobile development for work on the [MJSSA Digital Library](https://github.com/MJSSA/digital-library-mobile),
 
-- 👯 Collaborated on the [DataGateway](https://github.com/ral-facilities/datagateway) and [SciGateway](https://github.com/ral-facilities/scigateway) projects as part of my work during my placement and summer intership as a software engineer at [STFC](https://www.ukri.org/councils/stfc/).
+- 👯 Collaborated on the [DataGateway](https://github.com/ral-facilities/datagateway) and [SciGateway](https://github.com/ral-facilities/scigateway) projects as part of my work during my placement and summer internship as a software engineer at [STFC](https://www.ukri.org/councils/stfc/).
 
 
 <!--
